@@ -87,6 +87,12 @@
             <artifactId>itext</artifactId>
             <version>1.4</version>
         </dependency>
+        
+        <dependency>
+        <groupId>org.primefaces.themes</groupId>
+            <artifactId>aristo</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
 
     <build>
